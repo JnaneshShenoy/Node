@@ -1,0 +1,488 @@
+[
+  {
+    "type": "express",
+    "busName": "Padmambikaa",
+    "busTiming": "07:26",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "07:30",
+    "destination": "Karkala"
+  },
+  {
+    "type": "hybrid",
+    "busName": "Reshma",
+    "busTiming": "07:32",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Navadurga Prasad",
+    "busTiming": "07:35",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Srilaxmi",
+    "busTiming": "07:51",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Kusuma",
+    "busTiming": "08:03",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Milan",
+    "busTiming": "08:08",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "08:10",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Mercy",
+    "busTiming": "08:22",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Navadurga Prasad",
+    "busTiming": "08:36",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Keerthi",
+    "busTiming": "08:37",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Navadurga Prasad",
+    "busTiming": "08:41",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Sangam",
+    "busTiming": "09:17",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Laxmi Ganesh",
+    "busTiming": "09:20",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Padmambikaa",
+    "busTiming": "09:49",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Naveen",
+    "busTiming": "09:51",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Naveen",
+    "busTiming": "09:56",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "P.M Travels",
+    "busTiming": "10:08",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Padmambikaa",
+    "busTiming": "10:17",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Padmambikaa",
+    "busTiming": "10:28",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Jeevan",
+    "busTiming": "10:30",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Shree Padma",
+    "busTiming": "10:55",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Padmambikaa",
+    "busTiming": "11:01",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Rajarajeshwari",
+    "busTiming": "11:10",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Naveen",
+    "busTiming": "11:17",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "11:33",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Kanthi",
+    "busTiming": "11:39",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Kanthi",
+    "busTiming": "11:51",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Shahil",
+    "busTiming": "12:03",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "12:05",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "12:11",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Christa Jyothi",
+    "busTiming": "12:11",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Nandini",
+    "busTiming": "12:14",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "12:16",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Navadurga Prasad",
+    "busTiming": "12:24",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "12:36",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Sangam",
+    "busTiming": "12:43",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Bharathi",
+    "busTiming": "12:44",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Bharathi",
+    "busTiming": "12:50",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Navadurga Prasad",
+    "busTiming": "12:52",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "01:03",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Milan",
+    "busTiming": "01:10",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Sangam",
+    "busTiming": "01:16",
+    "destination": "Karkala"
+  },
+  {
+    "type": "fast service - local",
+    "busName": "Keerthi",
+    "busTiming": "01:20",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Laxmi Ganesh",
+    "busTiming": "01:23",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Reshma",
+    "busTiming": "01:35",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Christa Jyothi",
+    "busTiming": "01:43",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Padmambikaa",
+    "busTiming": "01:49",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Pranam",
+    "busTiming": "02:06",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Padmambikaa",
+    "busTiming": "02:08",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Sangam",
+    "busTiming": "02:15",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Rashmi Travels",
+    "busTiming": "02:25",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Naveen",
+    "busTiming": "02:36",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "02:38",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Padmambikaa",
+    "busTiming": "02:51",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Christa Kiran",
+    "busTiming": "02:52",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Naveen",
+    "busTiming": "03:06",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Padmambikaa",
+    "busTiming": "03:09",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Naveen",
+    "busTiming": "03:23",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "03:25",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Ayra",
+    "busTiming": "03:28",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Shree Padma",
+    "busTiming": "03:32",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Sangam",
+    "busTiming": "03:40",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "03:43",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Shree Annapoorneshwari",
+    "busTiming": "03:55",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Mercy",
+    "busTiming": "04:08",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Navadurga Prasad",
+    "busTiming": "04:12",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Kanthi",
+    "busTiming": "04:21",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "04:26",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "04:40",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Sangam",
+    "busTiming": "04:44",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "04:46",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Bharathi",
+    "busTiming": "04:58",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "04:59",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Pranam",
+    "busTiming": "05:07",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Sangam",
+    "busTiming": "05:40",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Rajarajeshwari ",
+    "busTiming": "05:39",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Keerthi ",
+    "busTiming": "05:49",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Laxmi Ganesh",
+    "busTiming": "05:51",
+    "destination": "Karkala"
+  },
+  {
+    "type": "local",
+    "busName": "Star",
+    "busTiming": "06:05",
+    "destination": "Karkala"
+  },
+  {
+    "type": "express",
+    "busName": "Star",
+    "busTiming": "06:37",
+    "destination": "Karkala"
+  }
+]

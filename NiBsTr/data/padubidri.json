@@ -1,0 +1,506 @@
+[
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "08:00",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "08:10",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "local",
+    "busName": "Sangam",
+    "busTiming": "08:45",
+    "destination": "Padubidri"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "08:46",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "local",
+    "busName": "Mercy",
+    "busTiming": "09:20",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "express",
+    "busName": "Navadurga Prasad",
+    "busTiming": "09:20",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "express",
+    "busName": "Navadurga Prasad",
+    "busTiming": "09:30",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "09:45",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "local",
+    "busName": "Christa Jyothi",
+    "busTiming": "09:54",
+    "destination": "Udupi"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "09:58",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "local",
+    "busName": "Decent",
+    "busTiming": "09:59",
+    "destination": "Udupi"
+  },
+  {
+    "type": "express",
+    "busName": "Laxmi Ganesh",
+    "busTiming": "10:05",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "local",
+    "busName": "Sangam",
+    "busTiming": "10:11",
+    "destination": "Padubidri"
+  },
+  {
+    "type": "local",
+    "busName": "Pranam",
+    "busTiming": "10:18",
+    "destination": "Kateel"
+  },
+  {
+    "type": "local",
+    "busName": "Christa Jyothi",
+    "busTiming": "10:23",
+    "destination": "Udupi"
+  },
+  {
+    "type": "express",
+    "busName": "Reshma",
+    "busTiming": "10:26",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "fast service - local",
+    "busName": "Sangam",
+    "busTiming": "10:36",
+    "destination": "Udupi"
+  },
+  {
+    "type": "express",
+    "busName": "Padmambikaa",
+    "busTiming": "10:50",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "local",
+    "busName": "Pranam",
+    "busTiming": "11:08",
+    "destination": "Kateel"
+  },
+  {
+    "type": "express",
+    "busName": "Padmambikaa",
+    "busTiming": "11:10",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "express",
+    "busName": "Christa Kiran",
+    "busTiming": "11:20",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "local",
+    "busName": "Naveen",
+    "busTiming": "11:26",
+    "destination": "Udupi"
+  },
+  {
+    "type": "local",
+    "busName": "Naveen",
+    "busTiming": "11:28",
+    "destination": "Udupi"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "11:29",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "local",
+    "busName": "Naveen",
+    "busTiming": "11:33",
+    "destination": "Udupi"
+  },
+  {
+    "type": "local",
+    "busName": "Jason",
+    "busTiming": "11:36",
+    "destination": "Mulki"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "11:40",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "local",
+    "busName": "Rashmi Travels",
+    "busTiming": "11:44",
+    "destination": "Udupi via Kapu"
+  },
+  {
+    "type": "express",
+    "busName": "Padmambikaa",
+    "busTiming": "11:51",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "express",
+    "busName": "Navadurga Prasad",
+    "busTiming": "12:00",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "express",
+    "busName": "Rajarajeshwari",
+    "busTiming": "12:09",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "express",
+    "busName": "Shree Annapoorneshwari",
+    "busTiming": "12:09",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "local",
+    "busName": "Srilaxmi",
+    "busTiming": "12:11",
+    "destination": "Kateel"
+  },
+  {
+    "type": "local",
+    "busName": "Naveen",
+    "busTiming": "12:18",
+    "destination": "Udupi"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "12:25",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "express",
+    "busName": "Navadurga Prasad",
+    "busTiming": "12:33",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "12:35",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "fast service - local",
+    "busName": "Shree Padma",
+    "busTiming": "12:38",
+    "destination": "Udupi"
+  },
+  {
+    "type": "express",
+    "busName": "Padmambikaa",
+    "busTiming": "12:45",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "local",
+    "busName": "Shahil",
+    "busTiming": "12:52",
+    "destination": "Udupi via Padubidri"
+  },
+  {
+    "type": "express",
+    "busName": "Rajarajeshwari",
+    "busTiming": "12:56",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "local",
+    "busName": "Christa Jyothi",
+    "busTiming": "01:07",
+    "destination": "Udupi"
+  },
+  {
+    "type": "express",
+    "busName": "Navadurga Prasad",
+    "busTiming": "01:10",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "01:21",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "local",
+    "busName": "Kanthi",
+    "busTiming": "01:30",
+    "destination": "Udupi"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "01:32",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "local",
+    "busName": "Kanthi",
+    "busTiming": "01:43",
+    "destination": "Udupi"
+  },
+  {
+    "type": "local",
+    "busName": "Bharathi",
+    "busTiming": "01:50",
+    "destination": "Udupi"
+  },
+  {
+    "type": "express",
+    "busName": "Laxmi Ganesh",
+    "busTiming": "01:59",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "02:00",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "local",
+    "busName": "Sangam",
+    "busTiming": "02:07",
+    "destination": "Mulki"
+  },
+  {
+    "type": "local",
+    "busName": "Sangam",
+    "busTiming": "02:10",
+    "destination": "Udupi"
+  },
+  {
+    "type": "express",
+    "busName": "Laxmi Ganesh",
+    "busTiming": "02:15",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "local",
+    "busName": "Pranam",
+    "busTiming": "02:34",
+    "destination": "Kateel"
+  },
+  {
+    "type": "express",
+    "busName": "Padmambikaa",
+    "busTiming": "02:37",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "express",
+    "busName": "Navadurga Prasad",
+    "busTiming": "02:44",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "local",
+    "busName": "Pranam",
+    "busTiming": "02:55",
+    "destination": "Kateel"
+  },
+  {
+    "type": "express",
+    "busName": "Padmambikaa",
+    "busTiming": "02:57",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "express",
+    "busName": "Reshma",
+    "busTiming": "03:05",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "local",
+    "busName": "Christa Jyothi",
+    "busTiming": "03:12",
+    "destination": "Udupi"
+  },
+  {
+    "type": "local",
+    "busName": "Star",
+    "busTiming": "03:16",
+    "destination": "Udupi"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "03:20",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "local",
+    "busName": "Naveen",
+    "busTiming": "03:31",
+    "destination": "Udupi"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "03:33",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "fast service - local",
+    "busName": "Sangam",
+    "busTiming": "03:43",
+    "destination": "Padubidri"
+  },
+  {
+    "type": "local",
+    "busName": "Naveen",
+    "busTiming": "03:45",
+    "destination": "Udupi"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "03:48",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "local",
+    "busName": "Naveen",
+    "busTiming": "03:54",
+    "destination": "Udupi"
+  },
+  {
+    "type": "express",
+    "busName": "Padmambikaa",
+    "busTiming": "03:59",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "express",
+    "busName": "Ayra",
+    "busTiming": "04:10",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "04:19",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "local",
+    "busName": "Naveen",
+    "busTiming": "04:25",
+    "destination": "Udupi"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "04:29",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "express",
+    "busName": "Bharathi",
+    "busTiming": "04:30",
+    "destination": "Padubidri"
+  },
+  {
+    "type": "fast service - local",
+    "busName": "Sai Ram",
+    "busTiming": "04:35",
+    "destination": "Padubidri"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "04:41",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "local",
+    "busName": "Shree Padma",
+    "busTiming": "04:49",
+    "destination": "Udupi via Kapu"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "04:56",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "local",
+    "busName": "Mercy",
+    "busTiming": "05:02",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "express",
+    "busName": "Navadurga Prasad",
+    "busTiming": "05:07",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "05:20",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "local",
+    "busName": "Shree Padma",
+    "busTiming": "05:21",
+    "destination": "Udupi"
+  },
+  {
+    "type": "express",
+    "busName": "Navadurga Prasad",
+    "busTiming": "05:22",
+    "destination": "Mangalore"
+  },
+  {
+    "type": "express",
+    "busName": "Vishal",
+    "busTiming": "05:38",
+    "destination": "Mangalore"
+  }
+]
